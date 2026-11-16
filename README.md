@@ -2,29 +2,57 @@
 
 # Uichan Lee · 이의찬
 
-**Machine Learning Engineer**
+**AI / Machine Learning Engineer**
 
-데이터의 문제를 살피고, 모델의 결과를 실제 의사결정에 연결합니다.
+데이터를 이해하고, 모델을 검증하고, 결과를 사람이 활용할 수 있는 서비스로 연결합니다.
 
-`Industrial AI` · `Computer Vision` · `ML Systems` · `LLM Applications`
+`Industrial AI`　·　`Computer Vision`　·　`AI Applications`
 
 </div>
 
 ---
 
-### 👋 About me
+## 👋 About
 
-산업용 비파괴검사 데이터를 다루며 결함 탐지와 설비 수명평가를 개발한 ML 엔지니어입니다. 데이터 전처리와 라벨 품질 개선부터 모델 검증, API 연동까지 경험했습니다. 모델의 성능뿐 아니라 결과를 이해하고 활용할 수 있는 흐름을 고민합니다.
+산업용 비파괴검사 데이터를 바탕으로 **결함 탐지와 설비 수명평가**를 개발했습니다. 결측과 노이즈를 다루는 전처리부터 모델 개발·평가, 실패 사례 분석, API 연동까지 경험했습니다. 최근에는 이미지와 텍스트를 함께 활용하는 AI와 근거를 확인할 수 있는 서비스에도 관심을 두고 있습니다.
 
-### 🔎 Experience
+## 💼 Experience
 
-**Machine Learning Engineer · 딥아이**　|　2025.03 — 2025.12
+### 삼성서울병원 · AX플랫폼파트
+**사무직** | 2026.09 — 재직 중 *(2026.11.16 증명서 기준)*
 
-- **산업 비전 AI** — 초음파 검사 데이터의 전처리와 결함 후보 탐지, 학습 데이터 라벨링 및 품질 개선
-- **설비 수명평가** — 설비 단위 검증을 고려한 예측 모델 개발과 FastAPI 기반 평가 기능 연동
-- **LLM 의사결정 지원** — 정량 분석 결과와 검사계획 추천을 연결하고 사용자가 최종 판단할 수 있는 흐름 설계
+### 토스씨엑스 · Toss CX Busan Center
+2026.02 — 2026.08
 
-### 🛠️ Tech stack
+### 딥아이 · Machine Learning Engineer
+2025.03 — 2025.12
+
+**IRIS-Auto | 비파괴검사 결함 탐지**
+
+- 초음파 검사 데이터의 결측·노이즈를 처리하고 SVR, AutoEncoder와 YOLO 기반 결함 탐지 및 후처리를 개발했습니다.
+- 평가 대상 실제 결함 **87건 중 80건을 탐지해 Recall 91.95%**를 기록했습니다.
+- 라벨 구축과 검수·재라벨링, 미탐·오탐 분석을 통해 데이터와 모델의 품질을 개선했습니다.
+
+**IRIS-Life | 설비 수명평가와 의사결정 지원**
+
+- 설비 단위 검증을 고려해 FT-Transformer 수명평가 모델을 개발하고, 해당 평가에서 **R² 0.966**을 기록했습니다.
+- FastAPI로 평가 기능을 연결하고, 정량 분석 결과와 검사 이력에 기반한 LLM 설명·검사계획 추천 흐름을 설계했습니다.
+
+## 📂 Selected projects
+
+### [Cashlog](https://github.com/UICHANLEE/cashlog) · 사진 기반 소비 기록
+
+사진으로 지출을 기록하고 카테고리 추천을 확인·수정할 수 있는 웹 가계부 MVP입니다. 이미지와 OCR 텍스트를 함께 활용한 분류 실험도 진행했습니다.
+
+### [Helpdesk RAFT](https://github.com/UICHANLEE/helpdesk) · 근거 기반 장애 진단
+
+장애 질문과 해결 사례를 기록하고 검색하는 로컬 진단 앱입니다. 검색 결과의 출처와 운영자 확인 과정을 구분합니다.
+
+### [Quiet Scan](https://github.com/UICHANLEE/pdf_scan) · 로컬 문서 스캔
+
+브라우저에서 문서 촬영·보정, 한국어·영어 OCR과 검색 가능한 PDF 생성을 다루는 MVP입니다.
+
+## 🛠️ Skills
 
 **Language & Data**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -42,20 +70,18 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 📂 Selected projects
+## 🎓 Education & Certifications
 
-| Project | 소개 |
-| --- | --- |
-| [Helpdesk RAFT](https://github.com/UICHANLEE/helpdesk) | 장애 질문과 확인된 해결 사례를 기록하고 검색하는 로컬 진단 앱. 검색 근거와 운영자 확인 과정을 함께 다룹니다. |
-| [Quiet Scan](https://github.com/UICHANLEE/pdf_scan) | 브라우저에서 문서 촬영·보정과 한영 OCR, 검색 가능한 PDF 생성을 다루는 로컬 MVP. |
+- **국립부경대학교** · 시스템경영공학부 기술데이터공학전공, 학사
+- **SQLD** · SQL 개발자
+- **ADsP** · 데이터분석 준전문가
 
-### 📚 Education & Certifications
+## 📄 Patent
 
-- 국립부경대학교 시스템경영공학부 기술데이터공학전공 · 학사
-- SQLD · ADsP
+- **열교환기 전열관 결함 심각도 분석 및 위험구간 탐지 방법** · 등록특허 제10-2967312호, 발명자 참여
 
 ---
 
 <div align="center">
-  관심 분야: 데이터 품질 · 결함 및 이상 탐지 · 신뢰할 수 있는 AI 서비스
+  데이터 품질 · 결함 및 이상 탐지 · 사람이 활용할 수 있는 AI
 </div>
