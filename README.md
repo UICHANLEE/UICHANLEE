@@ -4,6 +4,8 @@
 
 **AI / Machine Learning Engineer**
 
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=18&amp;duration=3500&amp;pause=1400&amp;color=5B8DEF&amp;center=true&amp;vCenter=true&amp;width=560&amp;height=45&amp;lines=Machine+Learning+Engineer;Computer+Vision+%7C+Industrial+AI;From+Data+to+Decision" alt="Machine Learning Engineer · Computer Vision · Industrial AI" />
+
 데이터를 이해하고, 모델을 검증하고, 결과를 사람이 활용할 수 있는 서비스로 연결합니다.
 
 `Industrial AI`　·　`Computer Vision`　·　`AI Applications`
@@ -54,21 +56,14 @@
 
 ## 🛠️ Skills
 
-**Language & Data**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,git&amp;perline=5" alt="Python, PyTorch, FastAPI, Docker, Git" />
+
+**Data & ML**  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-**Machine Learning & Vision**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat-square)
 ![CVAT](https://img.shields.io/badge/CVAT-263238?style=flat-square)
-
-**Serving & Tools**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## 🎓 Education & Certifications
 
