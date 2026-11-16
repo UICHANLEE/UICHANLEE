@@ -22,7 +22,7 @@
 **AI HelpDesk** | 2026.09 — 재직 중 *(2026.11.16 증명서 기준)*
 
 ### 토스씨엑스 · Toss CX Busan Center
-2026.02 — 2026.08
+**Data Labeller** | 2026.02 — 2026.08
 
 ### 딥아이 · Machine Learning Engineer
 2025.03 — 2025.12
